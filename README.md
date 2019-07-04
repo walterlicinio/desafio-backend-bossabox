@@ -1,4 +1,4 @@
-<h1 align="center">BackEend Challenge for Bossabox 👋</h1>
+<h1 align="center">Backend Challenge for Bossabox 👋</h1>
 <p>
   <img src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
 </p>
@@ -8,7 +8,7 @@
 ## Clone the repository
 
 ```sh
-git clone https://github.com/walterlicinio/vuttr-bossabox.git
+git clone https://github.com/walterlicinio/desafio-backend-bossabox.git
 ```
 
 ## Enter the repository folder
@@ -34,10 +34,7 @@ npm run start
 👤 **Walter Licínio**
 
 - Github: [@walterlicinio](https://github.com/walterlicinio)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
+- Studio: [RavnDesign](https://ravn.design)
 
 ---
 
