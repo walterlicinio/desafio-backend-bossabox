@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> The VUTTR API (Very Useful Tools to Remember) was developed for the BossaBox backend challenge. It's a repository for useful tools for developers, with the name, link, description and tags for each of these tools. Follow the instructions to install it and use the API:
+> The VUTTR API (Very Useful Tools to Remember) was developed for the BossaBox backend challenge. It's a repository for useful tools for developers, with the name, link, description and tags for each of these tools. Use apiblueprint.md to see the blueprint on how to use the API. See the following instructions to install the API:
 
 ## Clone the repository
 
