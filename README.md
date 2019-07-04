@@ -14,7 +14,7 @@ git clone https://github.com/walterlicinio/vuttr-bossabox.git
 ## Enter the repository folder
 
 ```sh
-cd vuttr-bossabox
+cd desafio-backend-bossabox
 ```
 
 ## Install
